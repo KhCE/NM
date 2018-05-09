@@ -1,6 +1,6 @@
 # Numerical Methods (NM) [Study Materials]
-Numerical Methods (NM) **Notes**
-- Chapter 1: [Introduction, Approximation and Errors of Computation]()
+Numerical Methods (NM)
+- Chapter 1: Introduction, Approximation and Errors of Computation
 - Chapter 2: Solutions of Non-linear Equations
 - Chapter 3: Solution of System of Linear Algebraic Equations
 - Chapter 4: Interpolation
@@ -9,7 +9,7 @@ Numerical Methods (NM) **Notes**
 - Chapter 7: Numerical Solution of Partial Differential Equation
 
 Numerical Methods (NM) **Assignments**
-- [Assignment#1]()
+- Assignment#1
 - Assignment#2
 - Assignment#3
 - Assignment#4
@@ -19,5 +19,5 @@ Numerical Methods (NM) **Assignments**
 - Assignment#8
 
 **Miscellaneous**
-- [NM Syllabus]()
+- [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
 
