@@ -9,14 +9,14 @@ Numerical Methods (NM) **Notes**
 - Chapter 7: Numerical Solution of Partial Differential Equation
 
 Numerical Methods (NM) **Assignments**
-- [Assignments#1]()
-- Assignments#2
-- Assignments#3
-- Assignments#4
-- Assignments#5
-- Assignments#6
-- Assignments#7
-- Assignments#8
+- [Assignment#1]()
+- Assignment#2
+- Assignment#3
+- Assignment#4
+- Assignment#5
+- Assignment#6
+- Assignment#7
+- Assignment#8
 
 **Miscellaneous**
 - [NM Syllabus]()
