@@ -1,4 +1,4 @@
-# Numerical Methods (NM) [Study Materials]
+# Numerical Methods (NM) [Learning Materials]
 Numerical Methods (NM)
 - Chapter 1: Introduction, Approximation and Errors of Computation
 - Chapter 2: [Solutions of Non-linear Equations](https://github.com/KhCE/NM/blob/master/Chapter_1_and_2_Roots_of_Nonlinear_Equations.pdf)
