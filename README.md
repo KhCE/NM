@@ -20,4 +20,5 @@ Numerical Methods (NM) **Assignments**
 
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
+- [NM Question Bank](https://github.com/KhCE/NM/blob/master/NM_QuestionBank.pdf)
 
