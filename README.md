@@ -8,6 +8,9 @@ Numerical Methods (NM)
 - Chapter 6: Solution of Ordinary Differential Equations
 - Chapter 7: Numerical Solution of Partial Differential Equation
 
+Other Notes
+- [Gauss Jordan Method to find Inverse of a Matrix and Triangular Factorization Method](https://github.com/KhCE/NM/blob/master/GaussJordan_Find_Inverse_of_Matrix_and_Triangular_Factorization.pdf)
+
 Numerical Methods (NM) **Assignments**
 - [Assignment#1](https://github.com/KhCE/NM/blob/master/Assignment_1.pdf)
 - Assignment#2
