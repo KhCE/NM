@@ -16,7 +16,7 @@ Other Notes
 
 Numerical Methods (NM) **Assignments**
 - [Assignment#1](https://github.com/KhCE/NM/blob/master/Assignment_1.pdf)
-- Assignment#2
+- [Assignment#2](https://github.com/KhCE/NM/blob/master/Assignment_2.pdf)
 - Assignment#3
 - Assignment#4
 - Assignment#5
