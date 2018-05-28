@@ -24,6 +24,10 @@ Numerical Methods (NM) **Assignments**
 - Assignment#7
 - Assignment#8
 
+**Useful Links**
+- [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
+- [Blog for Engineering Students](https://sksth.blogspot.com/)
+
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
 - [NM Question Bank](https://github.com/KhCE/NM/blob/master/NM_QuestionBank.pdf)
