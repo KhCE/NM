@@ -2,7 +2,7 @@
 
 **Contact Email:** nm.khwopa@gmail.com
 
-Numerical Methods (NM)
+**Numerical Methods (NM)**
 - Chapter 1: Introduction, Approximation and Errors of Computation
 - Chapter 2: [Solutions of Non-linear Equations](https://github.com/KhCE/NM/blob/master/Chapter_1_and_2_Roots_of_Nonlinear_Equations.pdf)
 - Chapter 3: Solution of System of Linear Algebraic Equations
@@ -11,10 +11,10 @@ Numerical Methods (NM)
 - Chapter 6: Solution of Ordinary Differential Equations
 - Chapter 7: Numerical Solution of Partial Differential Equation
 
-Other Notes
+**Other Notes**
 - [Gauss Jordan Method to find Inverse of a Matrix and Triangular Factorization Method](https://github.com/KhCE/NM/blob/master/GaussJordan_Find_Inverse_of_Matrix_and_Triangular_Factorization.pdf)
 
-Numerical Methods (NM) **Assignments**
+**Numerical Methods (NM) Assignments**
 - [Assignment#1](https://github.com/KhCE/NM/blob/master/Assignment_1.pdf)
 - [Assignment#2](https://github.com/KhCE/NM/blob/master/Assignment_2.pdf)
 - Assignment#3
@@ -26,7 +26,7 @@ Numerical Methods (NM) **Assignments**
 
 **Useful Links**
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
-- [Blog for Engineering Students](https://sksth.blogspot.com/)
+- [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
