@@ -28,6 +28,7 @@
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
 - [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
+- [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
 
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
