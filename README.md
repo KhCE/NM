@@ -39,3 +39,5 @@
 
 ![eigenvectors](https://user-images.githubusercontent.com/5508421/40819833-ed5d0c14-657c-11e8-8d4b-ee4fbc45e068.gif)
 
+The vectors in red are not parallel to either eigenvector, so, their directions are changed by the transformation. The blue vectors after the transformation are three times the length of the original (their eigenvalue is 3), while the lengths of the purple vectors are unchanged (reflecting an eigenvalue of 1). See also: [An extended version, showing all four quadrants](https://en.wikipedia.org/wiki/File:Eigenvectors-extended.gif)
+
