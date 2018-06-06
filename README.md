@@ -32,7 +32,7 @@
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
 
 **Miscellaneous**
-- [NM Syllabus](https://github.com/KhCE/NM/blob/master/NumericalMethods_Syllabus.pdf)
+- [NM Syllabus](https://github.com/KhCE/NM/blob/master/NM_Syllabus.pdf)
 - [NM Question Bank](https://github.com/KhCE/NM/blob/master/NM_QuestionBank.pdf)
 - [Population Census Summary of Nepal](https://github.com/KhCE/NM/blob/master/Population-Census-Summary-of-Nepal.pdf)
 
