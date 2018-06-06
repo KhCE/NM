@@ -13,6 +13,7 @@
 
 **Other Notes**
 - [Gauss Jordan Method to find Inverse of a Matrix and Triangular Factorization Method](https://github.com/KhCE/NM/blob/master/GaussJordan_Find_Inverse_of_Matrix_and_Triangular_Factorization.pdf)
+- [Basic Gauss Elimination - Code in C](https://github.com/KhCE/NM/blob/master/NM_BasicGEMv2.0.pdf)
 
 **Numerical Methods (NM) Assignments**
 - [Assignment#1](https://github.com/KhCE/NM/blob/master/Assignment_1.pdf)
