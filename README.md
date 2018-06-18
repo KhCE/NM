@@ -36,6 +36,7 @@
 - [NM Question Bank](https://github.com/KhCE/NM/blob/master/NM_QuestionBank.pdf)
 - [Population Census Summary of Nepal](https://github.com/KhCE/NM/blob/master/Population-Census-Summary-of-Nepal.pdf)
 - [NM 5 Set Questions](https://github.com/KhCE/NM/blob/master/NM_5_SET_Qs_FM_50.pdf)
+- [Regression Plane Fitting](https://github.com/KhCE/NM/blob/master/RegressionPlane_Fit.pdf)
 
 **Eigen Vectors**
 
