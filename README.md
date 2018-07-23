@@ -30,6 +30,7 @@
 - [Blog for Engineering Students](https://sksth.blogspot.com/2012/08/bisection-method-used-to-find-roots-of.html?view=sidebar)
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
 - [4x4 Equation Solver](http://math.bd.psu.edu/~jpp4/finitemath/4x4solver.html)
+- [Eigenvalue/Eigenvector Calculator](http://comnuan.com/cmnn01002/cmnn01002.php)
 
 **Miscellaneous**
 - [NM Syllabus](https://github.com/KhCE/NM/blob/master/NM_Syllabus.pdf)
