@@ -20,10 +20,10 @@
 - [Assignment#2](https://github.com/KhCE/NM/blob/master/Assignment_2.pdf)
 - [Assignment#3](https://github.com/KhCE/NM/blob/master/Assignment_3.pdf)
 - [Assignment#4](https://github.com/KhCE/NM/blob/master/Assignment_4.pdf)
-- Assignment#5
-- Assignment#6
-- Assignment#7
-- Assignment#8
+- [Assignment#5](https://github.com/KhCE/NM/blob/master/Assignment_5.pdf)
+- [Assignment#6](https://github.com/KhCE/NM/blob/master/Assignment_6.pdf)
+- [Assignment#8](https://github.com/KhCE/NM/blob/master/Assignment_8.pdf)
+- [Assignment#9](https://github.com/KhCE/NM/blob/master/Assignment_9.pdf)
 
 **Useful Links**
 - [CodeWithC.com](https://www.codewithc.com/numerical-methods-tutorial/)
